@@ -21,7 +21,7 @@
   "scripts": {
     "build": "gulp build",
     "live": "gulp live",
-    "debug": "cross-env DEBUG=Eleventy* eleventy --dryrun"
+    "debug": "cross-env DEBUG=\"Eleventy*\" eleventy --dryrun"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
