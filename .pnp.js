@@ -60,7 +60,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["markdown-it-emoji", "npm:2.0.0"],
             ["markdown-it-link-attributes", "npm:3.0.0"],
             ["moment", "npm:2.29.1"],
-            ["nunjucks", "npm:3.2.2"]
+            ["nunjucks", "npm:3.2.2"],
+            ["sharp", "npm:0.26.3"]
           ],
           "linkType": "SOFT",
         }]
@@ -2992,7 +2993,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["markdown-it-emoji", "npm:2.0.0"],
             ["markdown-it-link-attributes", "npm:3.0.0"],
             ["moment", "npm:2.29.1"],
-            ["nunjucks", "npm:3.2.2"]
+            ["nunjucks", "npm:3.2.2"],
+            ["sharp", "npm:0.26.3"]
           ],
           "linkType": "SOFT",
         }]
