@@ -2629,6 +2629,7 @@ __metadata:
     markdown-it-emoji: ^2.0.0
     markdown-it-link-attributes: ^3.0.0
     moment: ^2.29.0
+    nunjucks: ^3.2.2
   languageName: unknown
   linkType: soft
 
@@ -6007,7 +6008,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"nunjucks@npm:^3.2.1":
+"nunjucks@npm:^3.2.1, nunjucks@npm:^3.2.2":
   version: 3.2.2
   resolution: "nunjucks@npm:3.2.2"
   dependencies:

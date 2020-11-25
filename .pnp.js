@@ -59,7 +59,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["markdown-it-attrs", "virtual:a76f0d1a0912c8fcfbd9d74e3961b69b1912dc901fb84508461c7dac859c75bdf99a5a11e5f9365a6cdd68a46fa4efb742767e89c1424ea6c1d178179347c0df#npm:3.0.3"],
             ["markdown-it-emoji", "npm:2.0.0"],
             ["markdown-it-link-attributes", "npm:3.0.0"],
-            ["moment", "npm:2.29.1"]
+            ["moment", "npm:2.29.1"],
+            ["nunjucks", "npm:3.2.2"]
           ],
           "linkType": "SOFT",
         }]
@@ -2990,7 +2991,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["markdown-it-attrs", "virtual:a76f0d1a0912c8fcfbd9d74e3961b69b1912dc901fb84508461c7dac859c75bdf99a5a11e5f9365a6cdd68a46fa4efb742767e89c1424ea6c1d178179347c0df#npm:3.0.3"],
             ["markdown-it-emoji", "npm:2.0.0"],
             ["markdown-it-link-attributes", "npm:3.0.0"],
-            ["moment", "npm:2.29.1"]
+            ["moment", "npm:2.29.1"],
+            ["nunjucks", "npm:3.2.2"]
           ],
           "linkType": "SOFT",
         }]
