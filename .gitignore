@@ -19,6 +19,7 @@ public
 
 # dotenv environment variables file
 .env*
+!.env.template
 
 # Logs
 logs
