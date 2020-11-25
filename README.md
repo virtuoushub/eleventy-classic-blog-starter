@@ -41,3 +41,7 @@ With a little help from [@tigersway/gulp-responsive](https://github.com/TigersWa
 
 [source](.eleventy.js#L42-L49)
 
+## Notes
+
+<https://www.reddit.com/r/webdev/comments/eelqy0/gulp_in_2020/>
+
